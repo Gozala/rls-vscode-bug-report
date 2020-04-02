@@ -1,5 +1,7 @@
-[workspace]
+[package]
+name = "adder"
+version = "0.1.0"
+edition = "2018"
 
-members = [
-    "adder",
-]
+[dependencies]
+async-attributes = "1.1.1"
