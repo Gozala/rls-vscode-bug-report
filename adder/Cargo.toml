@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2018"
 
 [dependencies]
-async-std = { version = "1.5.0", features = ["attributes"] }
+async-attributes = "1.1.1"
